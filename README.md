@@ -56,10 +56,12 @@ Também possuo experiência com desenvolvimento de software utilizando **.NET, C
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Padilha062&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padilha062&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Padilha062&show_icons=true&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Padilha062&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Filosofia
