@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Vitor Padilha
+# Vitor Padilha
 
 🚀 **Sales Operations Analyst | Dados & Automação**  
 🇧🇷 Brasil
